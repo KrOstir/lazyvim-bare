@@ -1,0 +1,2 @@
+# lazyvim-bare
+LazyVim Bare
